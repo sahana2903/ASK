@@ -1,6 +1,6 @@
 # EXP NAME : ASK
 # NAME     : Sahana Thasneem S.N
-# REGISTER NO : 212224060063
+# REGISTER NO : 212224060225
 # Aim
 Write a simple Python program for the modulation and demodulation of ASK and FSK.
 # Tools required
